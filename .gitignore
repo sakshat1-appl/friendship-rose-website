@@ -1,2 +1,7 @@
 .lakebed/
 .env.lakebed.server
+
+node_modules/
+dist/
+.vercel
+
